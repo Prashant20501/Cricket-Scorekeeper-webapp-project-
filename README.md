@@ -1,1 +1,2 @@
-# Cricket-Scorekeeper-webapp-project-
+This is web developement project,
+an entry level game.
